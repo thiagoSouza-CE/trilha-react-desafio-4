@@ -48,4 +48,3 @@ export const Column = styled.div`
 export const Spacing = styled.div`
     margin: 10px 0;
 `
-
